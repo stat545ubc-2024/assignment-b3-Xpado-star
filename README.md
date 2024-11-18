@@ -5,9 +5,7 @@ output: github_document
 
 ## **Link to Running Instance of the Shiny App:**
 
-[**Explore mtcars Dataset**](https://<your-username>.shinyapps.io/<your-app-name>/)
-
-*(Replace `<your-username>` and `<your-app-name>` with your actual shinyapps.io username and app name.)*
+[**Explore mtcars Dataset**](https://dtan16.shinyapps.io/assignment-b3-xpado-star/)
 
 ---
 
