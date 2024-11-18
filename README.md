@@ -1,8 +1,3 @@
----
-title: "Shiny App: Exploratory Data Analysis of mtcars Dataset"
-output: github_document
----
-
 ## **Link to Running Instance of the Shiny App:**
 
 [**Explore mtcars Dataset**](https://dtan16.shinyapps.io/assignment-b3-xpado-star/)
