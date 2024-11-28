@@ -7,6 +7,12 @@
 [**V2: Explore mtcars Dataset**](https://dtan16.shinyapps.io/assignmentb4/)
 
 ---
+### **Description of Files:**
+
+- **`app.R`**: The main script that defines the user interface (UI) and server logic for the Shiny app.
+- **`README.md`**: This file, containing the description of the app, its features, and usage instructions.
+- **`assignmentb4/`**: The folder containing the second version (V2) of the Shiny app . This version includes additional features and updates to the original app. It contains another `app.R` file for the updated app version. The new features for this updated version of the app are listed below.
+
 
 ## **Description of the App:**
 
